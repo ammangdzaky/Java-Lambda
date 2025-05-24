@@ -1,4 +1,4 @@
-package A_PengenalanLambda;
+package a_PengenalanLambda;
 
 public class Main {
     public static void main(String[] args) {

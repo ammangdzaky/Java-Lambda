@@ -1,4 +1,4 @@
-package A_PengenalanLambda;
+package a_PengenalanLambda;
 
 @FunctionalInterface
 public interface ActionInterface {
