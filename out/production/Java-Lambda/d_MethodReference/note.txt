@@ -1,9 +1,0 @@
-Method Reference
-    - Kadang saat membuat lambda, isi lambda hanya mengakses method lain atau mengakses method yang ada di parameter
-    method lambda lainnya
-    - Kita bisa mempersingkat pembuatan lambda tersebut dengan method reference
-
-- Method Reference Static       format -> NamaClass::namaMethod
-- Method Reference Non Static   format -> this::namaMethod
-- Method Reference Object       format -> object::namaMethod
-- Method Reference Parameter    format -> NamaClass::instanceMethod
