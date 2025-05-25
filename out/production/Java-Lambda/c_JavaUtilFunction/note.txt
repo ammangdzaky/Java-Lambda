@@ -1,0 +1,13 @@
+PACKAGE jaava.util.function
+    - saat java 8 keluar dengan fitu lambdanya
+    - Java juga menyediakan sebuah package baru bernama java.util.function
+    - Package ini berisikan banyak sekali funtional interface yang bisa kita gunakan untuk beutuhan membuat lamda
+    - Dengan menggunakan interface-interface yang ada di package ini, kita mungkin tidak perlu lagi membuat sendiri funstion interface secara manual
+
+Contoh Interface Di Package java.util.function
+    nama interface -> nama method
+    - Consumer<T>        -> void accept (T t)  (menerima data dalam argumen)
+    - Function<T, R>     -> R apply (T t)   (menerima data dari argumen data me-return data)
+    - Predicate <T>      -> boolean test(T t)   (returnnya boolean)
+    - Supplier <T>       -> T get()     (untuk me-return data tanpa memberikan argument)
+    - dan lain sebagainya
