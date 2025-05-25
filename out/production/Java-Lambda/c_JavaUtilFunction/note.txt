@@ -9,5 +9,5 @@ Contoh Interface Di Package java.util.function
     - Consumer<T>        -> void accept (T t)  (menerima data dalam argumen)
     - Function<T, R>     -> R apply (T t)   (menerima data dari argumen data me-return data)
     - Predicate <T>      -> boolean test(T t)   (returnnya boolean)
-    - Supplier <T>       -> T get()     (untuk me-return data tanpa memberikan argument)
+    - Supplier <T>       -> T get()     (untuk me-return data tanpa menerima argument)
     - dan lain sebagainya
