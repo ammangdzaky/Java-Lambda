@@ -1,0 +1,4 @@
+Lambda di Collection
+    - Saat fitur lambda keluar, ada banyak sekali default method yang ditambahkan ke java collection
+    - Beberapa ada default method yang banyak memanfaatkan fitur lambda
+    - Di materi ini kita akan bahas beberapa method yang memanfaatkan Lambda
