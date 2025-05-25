@@ -1,0 +1,5 @@
+Optional Class
+    - Di java 8, java menyediakan sebuah class baru bernama Optional yang berada di package java.util
+    - Class ini digunakan sebagai wrapper/pembungkus untuk value yang bisa bernilai null
+    - Optional didesain agar kita lebih mudah ketika beroperasi dengan object yang bisa null
+    - Karena null pointer exception / NPE adalah salah satu hal yang sering sekali ditemui oleh programmer Java
